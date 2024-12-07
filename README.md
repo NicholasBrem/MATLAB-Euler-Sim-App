@@ -1,5 +1,7 @@
 # Euler Sim App
 
+4th Year Indivudual Project Accompanying Code
+
 App is a visualisation and attitude parameter conversion tool for specific attitude status:
 
 𝜓 = 10cos(0.01𝑡), 𝜃 = 30sin(0.02𝑡), 𝜙 = 20sin(0.01𝑡)
