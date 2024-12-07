@@ -12,4 +12,4 @@ App also displays the Rotation Matrix, Quaternions, Classical and Modified Rodri
 Cayley-Klein Matrix and w-z Parameters at current time.
 
 Plot data function plots a graph of each parameter vs time, allowing singularities to be identified
-and displaying the adequacy of each parameter at displaying the above status.
+and highlighting the adequacy of each parameter at displaying the above status.
