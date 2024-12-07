@@ -1,6 +1,6 @@
 # Euler Sim App
 
-4th Year Indivudual Project Accompanying Code
+4th Year Indivdual Project, MEng Aero-Mechanical Engineering, University of Strathclyde
 
 App is a visualisation and attitude parameter conversion tool for specific attitude status:
 
