@@ -13,3 +13,6 @@ Cayley-Klein Matrix and w-z Parameters at current time.
 
 Plot data function plots a graph of each parameter vs time, allowing singularities to be identified
 and highlighting the adequacy of each parameter at displaying the above status.
+
+
+*REQUIRES MATLAB TO RUN*
